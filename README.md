@@ -6,7 +6,7 @@ You can explore some of my projects at [my website](https://samplespace.dev/) (t
 
 ### 🛠️ Languages/Tools I use 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SampleSpaceDev&theme=githubdark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SampleSpaceDev&theme=github_dark&show_icons=true)
 
 <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="32" width="32" alt="Java"/>
