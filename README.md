@@ -6,8 +6,6 @@ You can explore some of my projects at [my website](https://samplespace.dev/) (t
 
 ### 🛠️ Languages/Tools I use 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SampleSpaceDev&theme=github_dark&show_icons=true&hide_border=true)
-
 <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="32" width="32" alt="Java"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="32" width="32" alt="C#"/>
@@ -18,6 +16,8 @@ You can explore some of my projects at [my website](https://samplespace.dev/) (t
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="32" width="32" alt="MySQL"/>
 </div>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SampleSpaceDev&theme=github_dark&show_icons=true&hide_border=true)
+
 ### 🖥️ Software I use
 
 <div id="software">
@@ -26,18 +26,3 @@ You can explore some of my projects at [my website](https://samplespace.dev/) (t
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" height="32" width="32" alt="JetBrains Rider"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="32" width="32" alt="Visual Studio Code"/>
 </div>
-
-<!--
-**SampleSpaceDev/SampleSpaceDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
