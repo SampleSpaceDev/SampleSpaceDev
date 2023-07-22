@@ -1,6 +1,6 @@
 ## 👋 Hey there 
 
-I'm Sam, or SampleSpace. I'm 17 years old and from England. I code a lot, mostly for personal projects. I mainly enjoy making Minecraft related content, such as plugins and mods.
+I'm Sam, or SampleSpace. I'm 18 years old and from England. I code a lot, mostly for personal projects. I mainly enjoy making Minecraft related content, such as plugins and mods.
 
 You can explore some of my projects at [my website](https://samplespace.dev/) (though it is still in development).
 
