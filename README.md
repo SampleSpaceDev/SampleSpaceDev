@@ -10,6 +10,7 @@ You can explore some of my projects at [my website](https://samplespace.dev/) (t
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="32" width="32" alt="Java"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="32" width="32" alt="C#"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="32" width="32" alt="NodeJS"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="32" width="32" alt="TypeScript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="32" width="32" alt="JavaScript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="32" width="32" alt="Git"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="32" width="32" alt="MongoDB"/>
